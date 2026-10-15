@@ -1,6 +1,9 @@
-# JetWave
+# JetWave GKS
 
-** JetWave GKS ile aynı Wi‑Fi ağındaki internete ihtiyaç duymadan Android cihazlar arasında dosya gönderebilir ve ekranınızı yansıtabilirsiniz.
-Uygulama hem alıcı hemde gönderici modlarda dosya transferi ve ekran ve ses yansıtma özelliklerine sahiptir.
+**JetWave GKS** ile aynı Wi‑Fi ağındaki Android cihazlar arasında, internete ihtiyaç duymadan dosya gönderebilir ve ekranınızı yansıtabilirsiniz.
 
-Uygulama İndirme Linki : https:/play.google.com/store/apps/details?id=com.gksyazilim.jetwave
+Uygulama hem **alıcı** hem de **gönderici** modunda çalışır; dosya transferi ile ekran ve ses yansıtma özelliklerinin ikisine de sahiptir.
+
+**Uygulama indirme linki:** [Google Play'de JetWave GKS](https://play.google.com/store/apps/details?id=com.gksyazilim.jetwave)
+
+![JetWave GKS](docs/feature-graphic.png)

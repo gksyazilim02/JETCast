@@ -6,4 +6,4 @@ Uygulama hem **alıcı** hem de **gönderici** modunda çalışır; dosya transf
 
 **Uygulama indirme linki:** [Google Play'de JetWave GKS](https://play.google.com/store/apps/details?id=com.gksyazilim.jetwave)
 
-![JetWave GKS](docs/feature-graphic.png)
+![JetWave GKS]([docs/feature-graphic.png](https://github.com/gksyazilim02/JETWave/blob/main/scr1.png?raw=true))

@@ -7,7 +7,7 @@ Uygulama hem **alıcı** hem de **gönderici** modunda çalışır; dosya transf
 **Uygulama indirme linki:** [Google Play'de JetCast GKS](https://play.google.com/store/apps/details?id=com.gksyazilim.jetwave)
 
 
-****Windows İşletim Sistemi için uygulama indirme linki:** [JetCast GKS](https://github.com/gksyazilim02/JETCast/releases/download/JETCAST/JETCast-Kurulum-1.0.0.exe)
+****Windows İşletim Sistemi için uygulama indirme linki:** [JetCast GKS](https://github.com/gksyazilim02/JETCast/releases/download/JETCAST/JETCast-Kurulum-1.2.0.exe)
 
 ****Linux/Pardus İşletim Sistemi için uygulama indirme linki:** [JetCast GKS](https://github.com/gksyazilim02/JETCast/releases/download/JETCAST/jetcast_1.2.0_amd64.deb).
 

@@ -11,6 +11,3 @@ Uygulama hem **alıcı** hem de **gönderici** modunda çalışır; dosya transf
 
 ****Linux/Pardus İşletim Sistemi için uygulama indirme linki:** [JetCast](https://github.com/gksyazilim02/JETCast/releases/download/JETCAST/jetcast_1.2.0_amd64.deb).
 
-<p align="center">
-  <img src="" alt="JetWavCast" width="300">
-</p>
